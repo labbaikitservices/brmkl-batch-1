@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  display: flex;
+  list-style-type: none;
+}
+.menu li {
+  margin-left: 10px;
+}
+.navigation {
+  display: flex;
+  width: 100vw;
+  height: 10vh;
+  justify-content: space-between;
+  margin: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.btn {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20px;
+}
+.btn-visit {
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.btn-visit:hover {
+  background-color: red;
+  color: white;
+  border: none;
+  height: 45px;
+  width: 130px;
+}
+
+.hero {
+  height: 85vh;
+  width: 100vw;
+  background-image: url("https://imgs.search.brave.com/lNgkiHuMh_tE4g938YnBQhgTVWhewEVG_9IN8arVk5c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9ocmx0eDEy/cGw4aHEvNE4xTmVv/SFRhVDhuSTB4N3Ax/akNHay81YTYwNTRh/NTA0NmI3NzQ5YTZi/NzhhZDNjYTFlYjU3/Zi93YXRlci1zcGxh/c2gtY2xyLXNodXR0/ZXJzdG9ja18yNTg0/MjE4MDUuanBnP2Zp/dD1maWxsJnc9NDgw/Jmg9Mjcw");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+  padding: 20px;
+}
+
+.grid-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  width: 400px;
+  height: 250px;
+  background-color: blueviolet;
+  margin: 5px;
+  border-radius: 20px;
+}
