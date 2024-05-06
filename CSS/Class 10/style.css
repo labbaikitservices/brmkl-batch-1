@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* font-size: 20px; */
+}
+
+/* .parent p {
+  font-size: 20px;
+}
+.child p {
+  font-size: 2em;
+} */
+
+/* .parent {
+  height: 80%;
+  background-color: aquamarine;
+  width: 20%;
+} */
+
+.box {
+  height: 200px;
+  width: 400px;
+  background-color: yellow;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  min-width: 500px;
+  background-color: greenyellow;
+}
+
+.height {
+  max-height: 50px;
+  background-color: antiquewhite;
+}
