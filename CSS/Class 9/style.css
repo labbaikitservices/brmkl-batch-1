@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+/* div {
+  background-color: yellowgreen;
+  padding: 20px;
+} */
+/* h2 {
+  background-color: aquamarine;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 20px;
+} */
+
+.external {
+  background-color: burlywood;
+  height: 200px;
+  width: 200px;
+  padding: 30px;
+}
+.internal {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border: 2px solid brown;
+}
