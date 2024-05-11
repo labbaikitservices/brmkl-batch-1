@@ -1,4 +1,4 @@
-# BRMKL Frontend Development Repository
+## BRMKL Frontend Development Repository
 
 Welcome to the BRMKL Frontend Development Repository! This repository contains the code and resources for the frontend development course offered as part of the Barho Roshan Mustaqbil K Liye (BRMKL) program by Labbaik IT Services (LITS).
 
