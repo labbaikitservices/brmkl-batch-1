@@ -1,10 +1,10 @@
-# BRMKL Frontend Development Repository
+## BRMKL Frontend Development Repository
 
 Welcome to the BRMKL Frontend Development Repository! This repository contains the code and resources for the frontend development course offered as part of the Barho Roshan Mustaqbil K Liye (BRMKL) program by Labbaik IT Services (LITS).
 
 ## Overview
 
-Led by Instructor [`Zahoor Ahmad`](https://github.com/zahooronly), this repository is designed to provide you with daily class code, projects, tutorials, and supplementary materials to support your learning journey in mastering frontend web development. The course covers essential technologies including HTML, CSS, VCS, JavaScript, TypeScript, React.js, Next.js, Vercel, and API data fetching.
+Led by Instructor [Zahoor Ahmad](https://github.com/zahooronly), this repository is designed to provide you with daily class code, projects, tutorials, and supplementary materials to support your learning journey in mastering frontend web development. The course covers essential technologies including HTML, CSS, VCS, JavaScript, TypeScript, React.js, Next.js, Vercel, and API data fetching.
 
 ## Usage
 
