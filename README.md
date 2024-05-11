@@ -4,7 +4,8 @@ Welcome to the BRMKL Frontend Development Repository! This repository contains t
 
 ## Overview
 
-Led by Instructor [Zahoor Ahmad](https://github.com/zahooronly), this repository is designed to provide you with daily class code, projects, tutorials, and supplementary materials to support your learning journey in mastering frontend web development. The course covers essential technologies including HTML, CSS, VCS, JavaScript, TypeScript, React.js, Next.js, Vercel, and API data fetching.
+Led by Instructor [Zahoor Ahmad](https://github.com/zahooronly), this repository is designed to provide you with daily class code, projects, tutorials, and supplementary materials to support your learning journey in mastering frontend web development. The course covers essential technologies including [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [VCS](https://git-scm.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [Vercel](https://vercel.com/), [Tailwind CSS](https://tailwindcss.com/), and API data fetching.
+
 
 ## Usage
 
@@ -21,6 +22,6 @@ Led by Instructor [Zahoor Ahmad](https://github.com/zahooronly), this repository
 
 ## Feedback and Support
 
-If you have any questions, feedback, or need assistance, feel free to reach out to Instructor [`Zahoor Ahmad`](https://github.com/zahooronly) or fellow learners in the BRMKL community.
+If you have any questions, feedback, or need assistance, feel free to reach out to Instructor [Zahoor Ahmad](https://github.com/zahooronly) or fellow learners in the BRMKL community.
 
 Happy coding!
