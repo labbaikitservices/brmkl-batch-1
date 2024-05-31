@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav.first {
+  height: 50px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  background: black;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.cart:hover,
+.location:hover,
+.logo:hover,
+.search-icon:hover,
+.location:hover,
+.languages:hover,
+.account:hover,
+.return:hover {
+  border: 1px solid white;
+  border-radius: 3px;
+}
+.languages {
+  height: 30px;
+  background-color: black;
+  color: white;
+}
+
+.logo img {
+  height: 30px;
+}
+
+.location {
+  display: flex;
+  align-items: last baseline;
+  /* height: 90px; */
+}
+.location div p {
+  font-size: 12px;
+  height: 10px;
+}
+.search img {
+  height: 20px;
+}
+.search-icon {
+  width: 40px;
+  background-color: #ff9900;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.location img {
+  height: 20px;
+}
+
+.cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 5px;
+}
+
+.cart img {
+  height: 30px;
+}
+
+.search {
+  display: flex;
+  gap: 0;
+  /* height: 20px; */
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 2px;
+}
+
+.search select {
+  width: 40px;
+  /* border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px; */
+  border: none;
+  /* height: 20px; */
+  height: 30px;
+  outline: none;
+}
+.search input {
+  width: 800px;
+  height: 30px;
+  border: none;
+  outline: none;
+}
+
+.cart {
+  display: flex;
+}
+
+.first p {
+  font-size: 12px;
+  color: white;
+}
+
+nav.next {
+  background-color: #232f3e;
+  height: 40px;
+  width: 100%;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+}
+
+ul div img {
+  height: 20px;
+}
+ul div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+ul li {
+  list-style-type: none;
+  color: white;
+  font-size: large;
+  padding: 10px 10px;
+}
+ul li:hover {
+  border: 1px solid white;
+  border-radius: 2px;
+  padding: 10px 10px;
+}
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+/* Hero Section */
+
+.hero {
+  min-height: 80vh;
+  background-image: url("/assets/images/hero_image.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.post img {
+  height: 116px;
+  width: 186px;
+}
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 380px;
+  background-color: white;
+  padding: 20px;
+}
+.post {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 0;
+  width: 186px;
+}
+.car {
+  height: 300px;
+  width: 100%;
+}
