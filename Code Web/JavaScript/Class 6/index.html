@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class 6</title>
+</head>
+
+<body>
+    <h2>Class 6</h2>
+
+</body>
+<script>
+    console.log("Hello World");
+    let ages = [23, 24, 25, 19, 40, 30, 26];
+    let names = ["Zahoor", "Abdullah", "Anzer", "Ahmer", "Mubeen", "Shaheer"]
+    let girls = ["Saba", "Umme Kalsoom", "Khadija"]
+    let boys = ["Anzer", "Ahmer", "Mubeen", "Shaheer"]
+    console.log("Length of Ages Array: ", ages.length);
+    console.log(ages)
+    console.log("Array to String", ages.toString());
+    console.log("at function: ", ages.at(0))
+    console.log("Join Function: ", names.join(" "))
+    console.log("Pop Function: ", ages.pop(), ages.pop(), ages)
+    console.log("Push Method: ", "\n", ages.push(35), "\n", ages)
+    console.log("Shift Function: ", "\n", ages.shift(), "\n", ages)
+    console.log("Unshift: ", "\n", ages.unshift(45, 23, 36), ages)
+    console.log(boys, girls)
+    let both = boys.concat(girls)
+    console.log("Contact: ", both)
+
+    const fruits = ["Banana", "Orange", "Apple", "Mango"];
+    fruits.splice(4, 0, "Lemon", "Kiwi");
+    console.log(fruits)
+</script>
+
+</html>
